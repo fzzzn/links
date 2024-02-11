@@ -11,12 +11,16 @@ import {
 
 const data: Data = {
   name: 'Rizky Fauzan Hanif',
-  avatar: 'https://fzzzn.my.id/content/images/2023/09/me.png',
+  avatar: 'https://avatars.githubusercontent.com/u/80439646',
   description: 'Tech enthusiast.',
   links: [
     {
       href: 'https://fzzzn.my.id',
       title: 'Personal Website',
+    },
+    {
+      href: 'https://status.zxn.my.id',
+      title: 'Status Page',
     },
   ],
   socials: [
