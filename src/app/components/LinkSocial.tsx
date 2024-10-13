@@ -6,6 +6,7 @@ import {
   SiGithub,
   SiInstagram,
   SiLinkedin,
+  SiKeybase,
 } from 'react-icons/si';
 import { Social } from '@/typings';
 
@@ -16,6 +17,7 @@ const LinkSocial: React.FC<Social> = ({ href, title }) => {
     if (title.includes('instagram')) return <SiInstagram size='26px' />;
     if (title.includes('github')) return <SiGithub size='26px' />;
     if (title.includes('linkedin')) return <SiLinkedin size='26px' />;
+    if (title.includes('keybase')) return <SiKeybase size='26px' />;
     return null;
   };
 
