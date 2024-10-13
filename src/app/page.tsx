@@ -7,8 +7,8 @@ import LinkSocial from '@/app/components/LinkSocial';
 
 export default function Home() {
   return (
-    <div className='main'>
-      <div className='flex items-center flex-col mx-auto w-full justify-center pt-16 px-8'>
+    <div className='main min-h-screen w-full'>
+      <div className='flex items-center flex-col mx-auto justify-center pt-16 px-8'>
         <a href={data.avatar} target='_blank'>
           <Image
             priority
