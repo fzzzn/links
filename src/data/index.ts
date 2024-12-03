@@ -6,15 +6,19 @@ const data: Data = {
   description: 'Tech enthusiast',
   links: [
     {
-      href: 'https://fzzzn.my.id',
+      href: 'https://rizkyfauzan.id',
       title: 'Personal Website',
-      image:
-        'https://fzzzn.my.id/content/images/2024/02/Rizky-Fauzan-Hanif-square-photoaidcom-cropped-1.jpg',
+      image: 'generic.svg',
     },
     {
       href: 'https://linkedin.com/in/rizky-fauzan-hanif',
       title: 'LinkedIn',
       image: 'linkedin.svg',
+    },
+    {
+      href: 'https://read.cv/rizkyfauzanhanif',
+      title: 'read.cv',
+      image: 'readcv.svg',
     },
     {
       href: 'https://keybase.io/fzzzn',
@@ -28,13 +32,13 @@ const data: Data = {
     },
     {
       href: 'https://grafana.zxn.my.id',
-      title: 'Monitoring',
+      title: 'Monitoring (Grafana)',
       image: 'grafana.svg',
     },
   ],
   socials: [
     {
-      href: 'mailto:fauzan@zxn.my.id',
+      href: 'mailto:contact@rizkyfauzan.id',
       title: 'email',
     },
 
@@ -47,7 +51,7 @@ const data: Data = {
       title: 'twitter',
     },
     {
-      href: 'https://instagram.com/eenthlh',
+      href: 'https://instagram.com/fauzannnnh',
       title: 'instagram',
     },
   ],
