@@ -26,7 +26,7 @@ const data: Data = {
       image: 'keybase.svg',
     },
     {
-      href: 'https://status.zxn.my.id',
+      href: 'https://status.rizkyfauzan.id',
       title: 'Status Page',
       image: 'uptime-kuma.svg',
     },
